@@ -9,7 +9,5 @@
 	width:100%;
 }
 .item{
-	justify-content:center;
-	align-items:center;
-	position:center;
+	 border:1px solid black;
 }
